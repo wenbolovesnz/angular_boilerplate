@@ -1,2 +1,9 @@
-# angular_boilerplate
-angular js boilerplate let you get started cutting angularJs with no time. 
+# A angular js app with gulp build system	
+	usage:
+	run nmp install
+	run gulp default 
+	go to localhost:3000
+	
+	Now, if you update sass file or index.html, gulp will the build process again, and your broswer will also be updated automatically.
+	To add more features, add to the gulpfile.js
+
